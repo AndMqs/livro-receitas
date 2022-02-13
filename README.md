@@ -1,5 +1,6 @@
-# Livro de Receitas
+# Livro de Receitas :woman_cook:
 
-Olá!
+Olá! Bem-vindo ao meu livro de receitas!
 
 - Bolo de Cenoura
+- Pavê
